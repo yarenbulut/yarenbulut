@@ -6,11 +6,9 @@
 </div>
 
 ###
-
 <br clear="both">
 
 ###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/gezerm85/gezerm85/output/snake.svg" alt="Snake animation" />
 </div>
@@ -77,9 +75,11 @@
 ###
 <br clear="both">
 
-<!-- Giphy animasyon -->
+<!-- Kod temalı GIF -->
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN6YWhuOHZzNmZudnFkbWFmeDY2a2ZxNzB1bnJ1Y2Nsa3gxdm0xcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eNAsQY1L6Z0rC/giphy.gif" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQxa2phbDI0b21jOGxyeWZiZHUwcnFwbmI0cXVlejhkcmhtaXh1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
 </div>
+
 <hr>
+
 
