@@ -67,9 +67,9 @@
 <hr>
 <br clear="both">
 
-<!-- Ziyaretçi sayacı -->
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yarenbulut/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=yarenbulut&label=Profile%20views&color=0e75b6&style=flat" alt="yarenbulut" />
 </div>
 
 ###
@@ -81,5 +81,3 @@
 </div>
 
 <hr>
-
-
